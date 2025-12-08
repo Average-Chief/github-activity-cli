@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: github-activity
+Version: 0.1.0
+Summary: CLI tool to fetch and display recent GitHub events for a user
+Author: Average-Chief
+Requires-Python: >=3.8

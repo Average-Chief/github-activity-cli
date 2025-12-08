@@ -1,0 +1,7 @@
+setup.py
+github_activity.egg-info/PKG-INFO
+github_activity.egg-info/SOURCES.txt
+github_activity.egg-info/dependency_links.txt
+github_activity.egg-info/entry_points.txt
+github_activity.egg-info/requires.txt
+github_activity.egg-info/top_level.txt
